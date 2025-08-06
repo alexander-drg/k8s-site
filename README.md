@@ -1,6 +1,7 @@
 # creioonescu.ro – Portfolio Site
 
-A lightweight, container-packaged personal portfolio that serves static HTML/CSS/JS through **NGINX**, is published to **GitHub Container Registry (GHCR)**, and is exposed to the public web via a **Cloudflare Tunnel**—so no inbound ports or router configuration are required.
+A lightweight, container-packaged personal portfolio that serves static HTML/CSS/JS through **NGINX**, is published to **GitHub Container Registry (GHCR)**, and is exposed to the public web via a **Cloudflare Tunnel**—so no inbound ports or router configuration are required. I built this to run on an old mini-PC which I transformed into a home-server with Debian as the OS of choice ![WhatsApp Image 2025-08-06 at 20 13 24_8da715ff](https://github.com/user-attachments/assets/45e7b7c4-a015-4f4a-bdf5-48c8c4a6d9b3) I plan to turn this into a fully operational self-hosted e-commerce website.
+
 
 ---
 
